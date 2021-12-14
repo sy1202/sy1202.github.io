@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+gitalk:
+owner:sy1202
+repo:
+clientID:56512501b0aa25304508
+clientSecret:3ef3e55f5cf7b76125cfd0a451a10e82a96d00e1
